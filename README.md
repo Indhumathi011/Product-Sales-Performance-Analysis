@@ -10,10 +10,13 @@ By analyzing multiple parameters such as screen time, stress, anxiety, and daily
 🧘 Insights on how digital detox activities improve mental health
 👥 Interactive filters for age group, gender, and Workout
 🎨 Clean Power BI visuals with KPIs, charts, and slicers for easy exploration
+
+
 🧠 Tools & Technologies Used
 Power BI Desktop – Data modeling, DAX calculations, and visualization
 Microsoft Excel – Data cleaning and transformation
 CSV Dataset – Source data used for analysis
+
 🧾 Data Description
 Below is a brief explanation of key columns used in the dataset:
 
@@ -26,12 +29,7 @@ Anxiety_Level	Self-reported anxiety level (scale 1–10)
 Stress_Level	Measured stress level (scale 1–10)
 Sleep_Quality	Quality of sleep (scale 1–10)
 Mental_Health_Status	Overall mental health rating derived from survey responses
-📂 Repository Contents
-File Name	Description
-Mental_Health_and_Social_Media_Balance_Dataset.csv	Source dataset
-Mental_Health_SocialMedia_Balance.pbix	Power BI dashboard file
-README.md	Project documentation
-screenshots/	Folder with dashboard visuals (optional)
+
 🪄 How to View the Dashboard
 Download the .pbix file from this repository.
 Open it in Power BI Desktop.
